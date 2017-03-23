@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+        <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+    </head>
+    <body>
+    	<div class="map-container" style="width:750px;">
+    		<div id="map" style="width:100%; height:400px;"></div>
+        </div>
+    	<h1>Southern National Congress</h1>
+    	<div class="text-container" style="width:750px;">
+	        <p>The Southern National Congress group is located in Annapolis,  MD. It's a Neo Confederate group. Neo-Confederacy groups celebrate the slave-owning antebellum South, and call for its racist practices to be renewed. The Confederate flag has become a contentious symbol in the US, and is banned in public buildings in some states after mass killer Dylann Roof was pictured posing with it. Neo-Confederacy groups loudly champion its use..
+	        </p>
+	    </div>
+      	<script type="text/javascript">
+            var map = L.map('map').setView([38.942027, -76.539584], 10);
+            var osmLayer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                maxZoom: 16,
+                attribution: '<a href="http://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> and contributors.'
+            });
+            map.addLayer(osmLayer);
+            var marker = L.marker([38.942027, -76.539584]).addTo(map);
+        </script>
+    </body>
+</html>

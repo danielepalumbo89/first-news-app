@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+        <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+    </head>
+    <body>
+    	<div class="map-container" style="width:750px;">
+    		<div id="map" style="width:100%; height:400px;"></div>
+        </div>
+    	<h1>All Eyes on Egipt Bookstore</h1>
+    	<div class="text-container" style="width:750px;">
+	        <p>The All Eyes on Egipt Bookstore group is located in Cleveland,  OH. It's a Black Separatists group. Black separatist groups advocate the creation of separate black communities or even nations. Some are opposed to any contact between black and other communities, and are anti-white and anti-Semitic..
+	        </p>
+	    </div>
+      	<script type="text/javascript">
+            var map = L.map('map').setView([41.390628, -81.878976], 10);
+            var osmLayer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                maxZoom: 16,
+                attribution: '<a href="http://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> and contributors.'
+            });
+            map.addLayer(osmLayer);
+            var marker = L.marker([41.390628, -81.878976]).addTo(map);
+        </script>
+    </body>
+</html>

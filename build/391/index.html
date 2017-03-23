@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+        <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+    </head>
+    <body>
+    	<div class="map-container" style="width:750px;">
+    		<div id="map" style="width:100%; height:400px;"></div>
+        </div>
+    	<h1>Soldiers of Odin</h1>
+    	<div class="text-container" style="width:750px;">
+	        <p>The Soldiers of Odin group is located in Springfield,  IL. It's a Anti-Muslim group. Anti-Muslim groups are a relatively new phenomenon in the radical right, emerging in in the US in the wake of 9/11. The movement is the fastest growing in the US, with the number of groups tripling in the last year. Followers make no distinctions between radical Islam and other branches of the faith, portray Muslims as engaged in a plot to take over the West, and call for them to be barred from public service..
+	        </p>
+	    </div>
+      	<script type="text/javascript">
+            var map = L.map('map').setView([39.653626, -89.773177], 10);
+            var osmLayer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                maxZoom: 16,
+                attribution: '<a href="http://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> and contributors.'
+            });
+            map.addLayer(osmLayer);
+            var marker = L.marker([39.653626, -89.773177]).addTo(map);
+        </script>
+    </body>
+</html>

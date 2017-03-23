@@ -1,14 +1,27 @@
 <!doctype html>
 <html lang="en">
     <head>
+    	<link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
     	<link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
     	<script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
     </head>
     <body>
+    	<nav>
+            <a href="http://www.ibtimes.co.uk/">
+                <img src="{{ url_for('static', filename='ibtlogo.png') }}">
+            </a>
+        </nav>
+        <header>
+        	<h1>Hate Groups in the Unites States of America</h1>
+        	<div class="byline">
+                By <a href="#">Daniele Palumbo, Tom Porter</a>
+            </div>
+
+
     	<div class="map-container" style="width:750px;">
     		<div id="map" style="width:100%; height:400px;"></div>
         </div>
-        <h1>Hate Groups in the Unites States of America</h1>
+        
         <table border=1 cellpadding=7>
             <tr>
                 <th>Name</th>

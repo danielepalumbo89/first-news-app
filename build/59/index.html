@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+        <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+    </head>
+    <body>
+    	<div class="map-container" style="width:750px;">
+    		<div id="map" style="width:100%; height:400px;"></div>
+        </div>
+    	<h1>Divine Truth Minstries</h1>
+    	<div class="text-container" style="width:750px;">
+	        <p>The Divine Truth Minstries group is located in Bainbridge,  OH. It's a Christian Identity group. Christian Identity groups fuse racist ideology with Christian theology, depicting the white race as the true &#39;chosen people&#39;, Jews as descended from Satan and non-whites as having no souls. The movement believes that non-whites will be enslaved in a Kingdom of Heaven established on Earth by Jesus Christ..
+	        </p>
+	    </div>
+      	<script type="text/javascript">
+            var map = L.map('map').setView([39.218389, -83.276337], 10);
+            var osmLayer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                maxZoom: 16,
+                attribution: '<a href="http://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> and contributors.'
+            });
+            map.addLayer(osmLayer);
+            var marker = L.marker([39.218389, -83.276337]).addTo(map);
+        </script>
+    </body>
+</html>

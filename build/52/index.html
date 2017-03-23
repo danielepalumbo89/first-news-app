@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+        <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+    </head>
+    <body>
+    	<div class="map-container" style="width:750px;">
+    		<div id="map" style="width:100%; height:400px;"></div>
+        </div>
+    	<h1>World Congress of Families</h1>
+    	<div class="text-container" style="width:750px;">
+	        <p>The World Congress of Families group is located in Rockford,  IL. It's a Anti-LGBT group. Opposition to equal rights for the LGBT community has been a key rallying point for the Christian right in the US for decades. The SPLC lists several groups who it claims stray into hate speech, and &#34;engage in crude name-calling and disseminate disparaging propaganda and falsehoods about this population, such as the claim that gay men molest children at vastly higher rates than straight men.&#34;.
+	        </p>
+	    </div>
+      	<script type="text/javascript">
+            var map = L.map('map').setView([42.167465, -89.19544], 10);
+            var osmLayer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                maxZoom: 16,
+                attribution: '<a href="http://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> and contributors.'
+            });
+            map.addLayer(osmLayer);
+            var marker = L.marker([42.167465, -89.19544]).addTo(map);
+        </script>
+    </body>
+</html>

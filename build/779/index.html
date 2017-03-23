@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+        <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+    </head>
+    <body>
+    	<div class="map-container" style="width:750px;">
+    		<div id="map" style="width:100%; height:400px;"></div>
+        </div>
+    	<h1>Ku Klos Knights of the Ku Klux Klan</h1>
+    	<div class="text-container" style="width:750px;">
+	        <p>The Ku Klos Knights of the Ku Klux Klan group is located in Lexington,  TN. It's a Ku Klux Klan group. The Klan is America&#39;s oldest and most notorious racist organisation. Founded in 1865 after the slave-owning Confederate states lost in the US Civil War, it was once a single organisation, with members across the US. Now it has splintered into rival groups. Though it has focussed its violence on African-Americans, Klan groups have also attacked Catholics and immigrants..
+	        </p>
+	    </div>
+      	<script type="text/javascript">
+            var map = L.map('map').setView([35.611096, -88.451128], 10);
+            var osmLayer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                maxZoom: 16,
+                attribution: '<a href="http://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> and contributors.'
+            });
+            map.addLayer(osmLayer);
+            var marker = L.marker([35.611096, -88.451128]).addTo(map);
+        </script>
+    </body>
+</html>

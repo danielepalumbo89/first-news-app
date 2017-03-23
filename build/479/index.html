@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.0.3/dist/leaflet.css" />
+        <script src="https://unpkg.com/leaflet@1.0.3/dist/leaflet.js"></script>
+    </head>
+    <body>
+    	<div class="map-container" style="width:750px;">
+    		<div id="map" style="width:100%; height:400px;"></div>
+        </div>
+    	<h1>Forza Nuova USA</h1>
+    	<div class="text-container" style="width:750px;">
+	        <p>The Forza Nuova USA group is located in Phoenix,  AZ. It's a White Nationalists group. White nationalists advocate the creation of exclusively white societies, and often denigrate other races as inferior. In recent years the white nationalist &#39;alt-right&#39; movement has risen to prominence, with members supporting Donald Trump&#39;s presidential candidacy, and using social media to spread white nationalist ideology..
+	        </p>
+	    </div>
+      	<script type="text/javascript">
+            var map = L.map('map').setView([33.29026, -112.324056], 10);
+            var osmLayer = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                maxZoom: 16,
+                attribution: '<a href="http://www.openstreetmap.org/" target="_blank">OpenStreetMap</a> and contributors.'
+            });
+            map.addLayer(osmLayer);
+            var marker = L.marker([33.29026, -112.324056]).addTo(map);
+        </script>
+    </body>
+</html>
