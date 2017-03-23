@@ -3,5 +3,21 @@
     <head></head>
     <body>
         <h1>hate groups</h1>
+        <table border=1 cellpadding=7>
+            <tr>
+                <th>Name</th>
+                <th>State</th>
+                <th>Group</th>
+                <th>Category</th>
+            </tr>
+            {% for obj in object_list %}
+            <tr>
+                <td>{{ obj.full_name }}</td>
+                <td>{{ obj.state }}</td>
+                <td>{{ obj.name }}</td>
+                <td>{{ obj.category }}</td>
+            </tr>
+            {% endfor %}
+        </table>
     </body>
 </html>

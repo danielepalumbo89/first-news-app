@@ -1,0 +1,853 @@
+id,full_name,state,name,x,y,category
+1,Springfield, MA,Abiding Truth Ministries,42.063595,-72.621534,antilgbt
+2,Scottsdale, AZ,Alliance Defending Freedom,33.448029,-111.960816,antilgbt
+3,Gainesville, FL,American College of Pediatricians,29.601988,-82.420516,antilgbt
+4,Tupelo, MS,American Family Association,34.203781,-88.80041,antilgbt
+5,Franklin, PA,American Family Association,41.372184,-79.87247,antilgbt
+6,Naperville, IL,Americans for Truth About Homosexuality,41.670164,-88.235278,antilgbt
+7,Powder Springs, GA,American Vision,33.841433,-84.724536,antilgbt
+8,New York, NY,ATLAH World Missionary Church ,40.496044,-74.255735,antilgbt
+9,Terre Haute, IN,Campus Ministry USA ,39.401571,-87.469721,antilgbt
+10,Washington, DC,Center for Family and Human Rights,38.803149,-77.11974,antilgbt
+11,New York, NY,Center for Family and Human Rights,40.496044,-74.255735,antilgbt
+12,Vallecito, CA,Chalcedon Foundation,38.039329,-120.497483,antilgbt
+13,Cincinnati, OH,Citizens for Community Values,39.051921,-84.712048,antilgbt
+14,Houston, TX,Conservative Republicans of Texas,29.523624,-95.788087,antilgbt
+15,Fort Lauderdale, FL,D. James Kennedy Ministries ,26.070365,-80.203969,antilgbt
+16,Greenville, GA,Faith Baptist Church ,33.017052,-84.729978,antilgbt
+17,North Royalton, OH,Faith2Action,41.27645,-81.785339,antilgbt
+18,Tempe, AZ,Faithful Word Baptist Church,33.319861,-111.978976,antilgbt
+19,Washington, DC,Family Research Council,38.803149,-77.11974,antilgbt
+20,Colorado Springs, CO,Family Research Institute,38.71603,-104.917822,antilgbt
+21,Gilbert, AZ,Family Watch International,33.204638,-111.841854,antilgbt
+22,Elizabeth, CO,Generations With Vision,39.346603,-104.616856,antilgbt
+23,Downers Grove, IL,Heterosexuals Organized for a Moral Environment,41.743653,-88.05745,antilgbt
+24,Carol Stream, IL,Illinois Family Institute,41.888027,-88.174862,antilgbt
+25,Peoria, IL,Illinois Family Institute Tri-County chapter,40.651938,-89.698281,antilgbt
+26,Orlando, FL,Liberty Counsel,28.347986,-81.50773,antilgbt
+27,Waltham, MA,Mass Resistance,42.353715,-71.285501,antilgbt
+28,Torrance, CA,Mass Resistance,33.780217,-118.394091,antilgbt
+29,Lewiston, ME,Mass Resistance,44.005818,-70.223698,antilgbt
+30,St. Louis, MO,Mass Resistance,38.531852,-90.320515,antilgbt
+31,Yorktown, VA,Mass Resistance,37.22878,-76.525397,antilgbt
+32,Columbus, OH,Mission: America,39.808631,-83.21028,antilgbt
+33,Sacramento, CA,Pacific Justice Institute,38.437574,-121.56012,antilgbt
+34,Hebron, OH,Pass the Salt Ministries,39.948181,-82.511529,antilgbt
+35,Monroe, WI,Pilgrims Covenant Church,42.581983,-89.671178,antilgbt
+36,Colorado Springs, CO,Pray in Jesus Name Project ,38.71603,-104.917822,antilgbt
+37,Plano, TX,Probe Ministries,32.997253,-96.860229,antilgbt
+38,Maiden, NC,Providence Road Baptist Church,35.552708,-81.262388,antilgbt
+39,Falls Church, VA,Public Advocate of the United States,38.87221,-77.194851,antilgbt
+40,San Marcos, CA,Ruth Institute,33.080552,-117.230168,antilgbt
+41,Sacramento, CA,Save California,38.437574,-121.56012,antilgbt
+42,Fort Worth, TX,Stedfast Baptist Church,32.552315,-97.544923,antilgbt
+43,Traverse City, MI,TC Family ,44.715142,-85.65924,antilgbt
+44,El Paso, TX,Tom Brown Ministries,31.620785,-106.635922,antilgbt
+45,Washington, DC,Traditional Values Coalition,38.803149,-77.11974,antilgbt
+46,Anaheim, CA,Traditional Values Coalition,33.788916,-118.017595,antilgbt
+47,Spartanburg, SC,True Light Pentecost Church,34.90146,-81.998107,antilgbt
+48,Gilbert, AZ,United Families International,33.204638,-111.841854,antilgbt
+49,Sacramento, CA,Verity Baptist Church,38.437574,-121.56012,antilgbt
+50,Topeka, KS,Westboro Baptist Church,38.916844,-95.812263,antilgbt
+51,Oklahoma City, OK,Windsor Hills Baptist Church,35.290544,-97.833675,antilgbt
+52,Rockford, IL,World Congress of Families,42.167465,-89.19544,antilgbt
+53,Sandpoint, ID,America Promise Ministries,48.256635,-116.581108,christianidentity
+54,Greensburg, LA,Christian American Ministries,30.817837,-90.688022,christianidentity
+55,Harrison, AR,Christian Revival Center,36.205615,-93.159356,christianidentity
+56,Schell City, MO,Church of Israel,38.012833,-94.123944,christianidentity
+57,Brooks, GA,Covenant People Ministry,33.27285,-84.473396,christianidentity
+58,Morton, IL,Diving International Church of the Web,40.556143,-89.516704,christianidentity
+59,Bainbridge, OH,Divine Truth Minstries,39.218389,-83.276337,christianidentity
+60,Little Rock, AR,Divine Truth Minstries,34.626061,-92.520911,christianidentity
+61,Chicago, IL,Euro Folk Radio,41.644335,-87.940267,christianidentity
+62,Union, KY,Fellowship of God Covenant People,38.922672,-84.6926,christianidentity
+63,Harrison, AR,Kingdom Identity Ministries,36.205615,-93.159356,christianidentity
+64,Alexandria, KY,Kinsman Redeemer Ministries,38.923347,-84.413656,christianidentity
+65,Scottsbluff, NE,Mission to Israel,41.846162,-103.695193,christianidentity
+66,Fostoria, OH,Non-Universal Teaching Ministries,41.129056,-83.444251,christianidentity
+67,Colville, WA,Our Place Fellowship,48.529099,-117.936596,christianidentity
+68,Mountain City, TN,Sacred Truth Publishing & Ministries,36.433023,-81.826267,christianidentity
+69,Laporte, CO,Scriptures for America Ministries,40.612226,-105.178228,christianidentity
+70,Lynchburg, VA,Virginia Publishing Company,37.33258,-79.271768,christianidentity
+71,Apple Valley, MN,Weisman Publications,44.717345,-93.248926,christianidentity
+72,Livingston, TX,Yahushua Dual Seed Christian Identity Ministry,30.681899,-94.970293,christianidentity
+73,Linwood, MI,Yahweh Truth,43.731574,-83.976323,christianidentity
+74,Broomall, PA,Catholic Counterpoint,39.954111,-75.374636,christianidentity
+75,Niagara Falls, NY,Catholic Family News,43.066956,-79.075321,christianidentity
+76,West Chester, OH,Christ or Chaos,39.29229,-84.483206,christianidentity
+77,Constable, NY,International Fatima Rosary Crusade ,44.927864,-74.29848,christianidentity
+78,Carrollton, VA,In the Spirit of Chartres Committee,36.945466,-76.561857,christianidentity
+79,Fillmore, NY,Most Holy Family Monastery,42.456205,-78.122923,christianidentity
+80,Palmdale, CA,OMNI Christian Book Club,34.509813,-118.287107,christianidentity
+81,Richmond, NH,Slaves of the Immaculate Heart of Mary,42.719535,-72.33962,christianidentity
+82,Fence Lake, NM,Aggressive Christianity,34.637307,-108.729619,christianidentity
+83,Berino, NM,Aggressive Christianity,32.069584,-106.622732,christianidentity
+84,Vista, CA,Christian Anti-Defamation Commission,33.131181,-117.288254,christianidentity
+85,St. Petersburg, FL,Bill Keller Ministries,27.644609,-82.767013,christianidentity
+86,Sheridan, CA,European-American Evangelistic Crusades,38.978204,-121.377452,christianidentity
+87,Colorado City, AZ,Fundamentalist Latter Day Saints,36.946879,-113.028177,christianidentity
+88,Custer, SD,Fundamentalist Latter Day Saints,43.75623,-103.618884,christianidentity
+89,Pringle, SD,Fundamentalist Latter Day Saints,43.603337,-103.599186,christianidentity
+90,Coeur d'Alene, ID,Lordship Church,47.68264,-116.778342,christianidentity
+91,Clackamas, OR,National Prayer Network,45.393211,-122.57783,christianidentity
+92,Los Angeles, CA,Official Street Preachers,33.703692,-118.668176,christianidentity
+93,Harrison, AR,Official Street Preachers,36.205615,-93.159356,christianidentity
+94,Austin, TX,Power of Prophecy,30.098659,-97.938383,christianidentity
+95,Newmanstown, PA,Reformation-Bible Puritan-Baptist Church Vatican Assassins,40.33789,-76.227786,christianidentity
+96,Fouke, AR,Tony Alamo Christian Ministries,33.253458,-93.895555,christianidentity
+97,Fort Smith, AR,Tony Alamo Christian Ministries,35.263506,-94.43559,christianidentity
+98,Canyon Country, CA,Tony Alamo Christian Ministries,34.415807,-118.476159,christianidentity
+99,Santa Clarita, CA,Tony Alamo Christian Ministries,34.340498,-118.613192,christianidentity
+100,New York, NY,Tony Alamo Christian Ministries,40.496044,-74.255735,christianidentity
+101,Fouke, AR,Tony Alamo Christian Ministries,33.253458,-93.895555,christianidentity
+102,Fort Smith, AR,Tony Alamo Christian Ministries,35.263506,-94.43559,christianidentity
+103,Canyon Country, CA,Tony Alamo Christian Ministries,34.415807,-118.476159,christianidentity
+104,Santa Clarita, CA,Tony Alamo Christian Ministries,34.340498,-118.613192,christianidentity
+105,New York, NY,Tony Alamo Christian Ministries,40.496044,-74.255735,christianidentity
+106,Brooklyn, NY,All Eyes on Egipt Bookstore,40.551042,-74.05663,blackseparatists
+107,Chicago, IL,All Eyes on Egipt Bookstore,41.644335,-87.940267,blackseparatists
+108,Cleveland, OH,All Eyes on Egipt Bookstore,41.390628,-81.878976,blackseparatists
+109,Decatur, GA,All Eyes on Egipt Bookstore,33.751003,-84.315739,blackseparatists
+110,Detroit, MI,All Eyes on Egipt Bookstore,42.255192,-83.287959,blackseparatists
+111,Dorchester, MA,All Eyes on Egipt Bookstore,42.267598,-71.080037,blackseparatists
+112,Macon, GA,All Eyes on Egipt Bookstore,32.765651,-83.739741,blackseparatists
+113,Monticello, GA,All Eyes on Egipt Bookstore,33.28661,-83.709975,blackseparatists
+114,Orlando, FL,All Eyes on Egipt Bookstore,28.347986,-81.50773,blackseparatists
+115,Chicago, IL,Black Riders Liberation Party,41.644335,-87.940267,blackseparatists
+116,Detroit, MI,Black Riders Liberation Party,42.255192,-83.287959,blackseparatists
+117,Los Angeles, CA,Black Riders Liberation Party,33.703692,-118.668176,blackseparatists
+118,Miami, FL,Black Riders Liberation Party,25.709042,-80.319606,blackseparatists
+119,New York, NY,Black Riders Liberation Party,40.496044,-74.255735,blackseparatists
+120,Oakland, CA,Black Riders Liberation Party,37.699198,-122.342665,blackseparatists
+121,Portland, OR,Black Riders Liberation Party,45.432393,-122.836995,blackseparatists
+122,Richmond, VA,Black Riders Liberation Party,37.446553,-77.601011,blackseparatists
+123,San Diego, CA,Black Riders Liberation Party,32.534856,-117.282167,blackseparatists
+124,Atlanta, GA,Black Riders Liberation Party,33.647808,-84.551819,blackseparatists
+125,Austin, TV,Black Riders Liberation Party,30.270004,-97.741628,blackseparatists
+126,Chicago, IL,Black Riders Liberation Party,41.644335,-87.940267,blackseparatists
+127,Detroit, MI,Black Riders Liberation Party,42.255192,-83.287959,blackseparatists
+128,Indianapolis, IN,Black Riders Liberation Party,39.632177,-86.328121,blackseparatists
+129,Miami, FL,Black Riders Liberation Party,25.709042,-80.319606,blackseparatists
+130,Minneapolis, MN,Black Riders Liberation Party,44.890144,-93.329163,blackseparatists
+131,New York, NY,Black Riders Liberation Party,40.496044,-74.255735,blackseparatists
+132,Oklahoma City, OK,Black Riders Liberation Party,35.290544,-97.833675,blackseparatists
+133,Philadelphia, PA,Black Riders Liberation Party,39.871514,-75.280303,blackseparatists
+134,Portland, OR,Black Riders Liberation Party,45.432393,-122.836995,blackseparatists
+135,Raleigh, NC,Black Riders Liberation Party,35.715808,-78.819049,blackseparatists
+136,Seattle, WA,Black Riders Liberation Party,47.495551,-122.435909,blackseparatists
+137,St. Louis, MO,Black Riders Liberation Party,38.531852,-90.320515,blackseparatists
+138,Syracuse, NY,Black Riders Liberation Party,42.984366,-76.204476,blackseparatists
+139,Atlanta, GA,Israel United In Christ,33.647808,-84.551819,blackseparatists
+140,Austin, TX,Israel United In Christ,30.098659,-97.938383,blackseparatists
+141,Birmingham, AL,Israel United In Christ,33.38376,-87.122124,blackseparatists
+142,Boston, MA,Israel United In Christ,42.22788,-71.191113,blackseparatists
+143,Bronx, NY,Israel United In Christ,40.785743,-73.933808,blackseparatists
+144,Charlotte, NC,Israel United In Christ,35.013174,-81.009554,blackseparatists
+145,Chicago, IL,Israel United In Christ,41.644335,-87.940267,blackseparatists
+146,Corpus Christi, TX,Israel United In Christ,27.492056,-97.750558,blackseparatists
+147,Dallas, TX,Israel United In Christ,32.617537,-96.998941,blackseparatists
+148,Denver, CO,Israel United In Christ,39.614431,-105.109927,blackseparatists
+149,Detroit, MI,Israel United In Christ,42.255192,-83.287959,blackseparatists
+150,Hampton, VA,Israel United In Christ,36.968618,-76.45117,blackseparatists
+151,Heath, OH,Israel United In Christ,39.990299,-82.502483,blackseparatists
+152,Houston, TX,Israel United In Christ,29.523624,-95.788087,blackseparatists
+153,Kansas City, KS,Israel United In Christ,39.043559,-94.908465,blackseparatists
+154,Las Vegas, NV,Israel United In Christ,35.95,-115.4,blackseparatists
+155,Los Angeles, CA,Israel United In Christ,33.703692,-118.668176,blackseparatists
+156,Louisville, KY,Israel United In Christ,37.9971,-85.948441,blackseparatists
+157,Memphis, TN,Israel United In Christ,34.994185,-90.304493,blackseparatists
+158,Miami, FL,Israel United In Christ,25.709042,-80.319606,blackseparatists
+159,Mount Vernon, NY,Israel United In Christ,40.88975,-73.853528,blackseparatists
+160,New Orleans, LA,Israel United In Christ,29.868425,-90.13801,blackseparatists
+161,Newark, NJ,Israel United In Christ,40.674018,-74.251324,blackseparatists
+162,Orlando, FL,Israel United In Christ,28.347986,-81.50773,blackseparatists
+163,Phoenix, AZ,Israel United In Christ,33.29026,-112.324056,blackseparatists
+164,Pittsburgh, PA,Israel United In Christ,40.361369,-80.095278,blackseparatists
+165,Salem, OR,Israel United In Christ,44.853642,-123.122711,blackseparatists
+166,San Antonio, TX,Israel United In Christ,29.224141,-98.805851,blackseparatists
+167,St. Louis, MO,Israel United In Christ,38.531852,-90.320515,blackseparatists
+168,Tallahassee, FL,Israel United In Christ,30.346942,-84.383886,blackseparatists
+169,Warr Acres, OK,Israel United In Christ,35.504957,-97.632319,blackseparatists
+170,Washington, DC,Israel United In Christ,38.803149,-77.11974,blackseparatists
+171,Akron, OH,Nation of Islam,40.997673,-81.621014,blackseparatists
+172,Atlanta, GA,Nation of Islam,33.647808,-84.551819,blackseparatists
+173,Augusta, GA,Nation of Islam,33.227148,-82.353499,blackseparatists
+174,Austin, TX,Nation of Islam,30.098659,-97.938383,blackseparatists
+175,Baltimore, MD,Nation of Islam,39.197207,-76.711519,blackseparatists
+176,Baton Rouge, LA,Nation of Islam,30.323732,-91.216307,blackseparatists
+177,Benton Harbor, MI,Nation of Islam,42.092528,-86.477434,blackseparatists
+178,Birmingham, AL,Nation of Islam,33.38376,-87.122124,blackseparatists
+179,Boston, MA,Nation of Islam,42.22788,-71.191113,blackseparatists
+180,Brooklyn, NY,Nation of Islam,40.551042,-74.05663,blackseparatists
+181,Brunswick, GA,Nation of Islam,31.109837,-81.524192,blackseparatists
+182,Buffalo, NY,Nation of Islam,42.826023,-78.914267,blackseparatists
+183,Camden, NJ,Nation of Islam,39.898664,-75.132836,blackseparatists
+184,Charleston, SC,Nation of Islam,32.668505,-80.14379,blackseparatists
+185,Charlotte, NC,Nation of Islam,35.013174,-81.009554,blackseparatists
+186,Chattanooga, TN,Nation of Islam,34.982924,-85.425584,blackseparatists
+187,Chicago, IL,Nation of Islam,41.644335,-87.940267,blackseparatists
+188,Cleveland, OH,Nation of Islam,41.390628,-81.878976,blackseparatists
+189,Columbia, SC,Nation of Islam,33.94342,-81.170978,blackseparatists
+190,Columbus, GA,Nation of Islam,32.373874,-85.080622,blackseparatists
+191,Columbus, OH,Nation of Islam,39.808631,-83.21028,blackseparatists
+192,Compton, CA,Nation of Islam,33.863086,-118.263659,blackseparatists
+193,Dallas, TX,Nation of Islam,32.617537,-96.998941,blackseparatists
+194,Dayton, OH,Nation of Islam,39.701834,-84.311377,blackseparatists
+195,Denver, CO,Nation of Islam,39.614431,-105.109927,blackseparatists
+196,Detroit, MI,Nation of Islam,42.255192,-83.287959,blackseparatists
+197,Durham, NC,Nation of Islam,35.866725,-79.00765,blackseparatists
+198,East Saint Louis, IL,Nation of Islam,38.57849,-90.18651,blackseparatists
+199,Fort Lauderdale, FL,Nation of Islam,26.070365,-80.203969,blackseparatists
+200,Fort Worth, TX,Nation of Islam,32.552315,-97.544923,blackseparatists
+201,Gainesville, FL,Nation of Islam,29.601988,-82.420516,blackseparatists
+202,Grand Rapids, MI,Nation of Islam,42.883666,-85.751532,blackseparatists
+203,Greensboro, NC,Nation of Islam,35.985195,-80.006891,blackseparatists
+204,Greenville, SC,Nation of Islam,34.775499,-82.434679,blackseparatists
+205,Harlem, NY,Nation of Islam,40.796887,-73.962359,blackseparatists
+206,Harrisburg, PA,Nation of Islam,40.237601,-76.924457,blackseparatists
+207,Holly Springs, MS,Nation of Islam,34.739358,-89.495469,blackseparatists
+208,Houston, TX,Nation of Islam,29.523624,-95.788087,blackseparatists
+209,Huntsville, AL,Nation of Islam,34.537651,-86.905704,blackseparatists
+210,Indianapolis, IN,Nation of Islam,39.632177,-86.328121,blackseparatists
+211,Kansas City, MO,Nation of Islam,38.827176,-94.765917,blackseparatists
+212,Lexington, KY,Nation of Islam,37.845256,-84.660415,blackseparatists
+213,Los Angeles, CA,Nation of Islam,33.703692,-118.668176,blackseparatists
+214,Louisville, KY,Nation of Islam,37.9971,-85.948441,blackseparatists
+215,Memphis, TN,Nation of Islam,34.994185,-90.304493,blackseparatists
+216,Miami, FL,Nation of Islam,25.709042,-80.319606,blackseparatists
+217,Milwaukee, WI,Nation of Islam,42.920816,-88.070876,blackseparatists
+218,Mobile, AL,Nation of Islam,30.560374,-88.221253,blackseparatists
+219,Monroe, LA,Nation of Islam,32.429714,-92.135234,blackseparatists
+220,Montgomery, AL,Nation of Islam,32.249921,-86.41987,blackseparatists
+221,New Brunswick, NJ,Nation of Islam,40.467221,-74.489524,blackseparatists
+222,New Orleans, LA,Nation of Islam,29.868425,-90.13801,blackseparatists
+223,Newark, NJ,Nation of Islam,40.674018,-74.251324,blackseparatists
+224,Norfolk, VA,Nation of Islam,36.820757,-76.33427,blackseparatists
+225,Oakland, CA,Nation of Islam,37.699198,-122.342665,blackseparatists
+226,Pensacola, FL,Nation of Islam,30.397557,-87.258785,blackseparatists
+227,Philadelphia, PA,Nation of Islam,39.871514,-75.280303,blackseparatists
+228,Phoenix, AZ,Nation of Islam,33.29026,-112.324056,blackseparatists
+229,Pine Bluff, AR,Nation of Islam,34.146282,-92.094217,blackseparatists
+230,Pine Hills, FL,Nation of Islam,28.552379,-81.477593,blackseparatists
+231,Pittsburgh, PA,Nation of Islam,40.361369,-80.095278,blackseparatists
+232,Plainfield, NJ,Nation of Islam,40.594502,-74.463351,blackseparatists
+233,Raleigh, NC,Nation of Islam,35.715808,-78.819049,blackseparatists
+234,Rialto, CA,Nation of Islam,34.023886,-117.436509,blackseparatists
+235,Richmond, VA,Nation of Islam,37.446553,-77.601011,blackseparatists
+236,Rochester, NY,Nation of Islam,43.103318,-77.701632,blackseparatists
+237,Rockford, IL,Nation of Islam,42.167465,-89.19544,blackseparatists
+238,Saint Petersburg, FL,Nation of Islam,27.644609,-82.767013,blackseparatists
+239,San Diego, CA,Nation of Islam,32.534856,-117.282167,blackseparatists
+240,Shreveport, LA,Nation of Islam,32.332715,-93.9478,blackseparatists
+241,Southaven, MS,Nation of Islam,34.902816,-90.079466,blackseparatists
+242,Springfield, MA,Nation of Islam,42.063595,-72.621534,blackseparatists
+243,St. Louis, MO,Nation of Islam,38.531852,-90.320515,blackseparatists
+244,Stockton, CA,Nation of Islam,37.887747,-121.419736,blackseparatists
+245,Tampa, FL,Nation of Islam,27.82106,-82.648655,blackseparatists
+246,Texarkana, TX,Nation of Islam,33.381386,-94.144855,blackseparatists
+247,Tulsa, OK,Nation of Islam,35.968097,-96.074478,blackseparatists
+248,Washington, DC,Nation of Islam,38.803149,-77.11974,blackseparatists
+249,Willingboro, NJ,Nation of Islam,39.998113,-74.931589,blackseparatists
+250,Wilmington, DE,Nation of Islam,39.686794,-75.588466,blackseparatists
+251,Winston-Salem, NC,Nation of Islam,35.996545,-80.385947,blackseparatists
+252,Atlanta, GA,New Black Panther Party,33.647808,-84.551819,blackseparatists
+253,Augusta, GA,New Black Panther Party,33.227148,-82.353499,blackseparatists
+254,Dallas, TX,New Black Panther Party,32.617537,-96.998941,blackseparatists
+255,Dayton, OH,New Black Panther Party,39.701834,-84.311377,blackseparatists
+256,Hattiesburg, MS,New Black Panther Party,31.186012,-89.416684,blackseparatists
+257,Houston, TX,New Black Panther Party,29.523624,-95.788087,blackseparatists
+258,Jacksonville, FL,New Black Panther Party,30.103748,-82.049502,blackseparatists
+259,Los Angeles, CA,New Black Panther Party,33.703692,-118.668176,blackseparatists
+260,Louisville, KY,New Black Panther Party,37.9971,-85.948441,blackseparatists
+261,Miami, FL,New Black Panther Party,25.709042,-80.319606,blackseparatists
+262,Nashville, TN,New Black Panther Party,35.967785,-87.054903,blackseparatists
+263,Newark, NJ,New Black Panther Party,40.674018,-74.251324,blackseparatists
+264,Springfield, IL,New Black Panther Party,39.653626,-89.773177,blackseparatists
+265,St. Louis, MO,New Black Panther Party,38.531852,-90.320515,blackseparatists
+266,Tallahassee, FL,New Black Panther Party,30.346942,-84.383886,blackseparatists
+267,Tampa, FL,New Black Panther Party,27.82106,-82.648655,blackseparatists
+268,Tomball, TX,New Black Panther Party,30.061293,-95.66415,blackseparatists
+269,Virginia Beach, VA,New Black Panther Party,36.550453,-76.227748,blackseparatists
+270,Washington, DC,New Black Panther Party,38.803149,-77.11974,blackseparatists
+271,Waycross, GA,New Black Panther Party,31.162828,-82.415123,blackseparatists
+272,New Haven, CT,New Black Panther Party for Self Defense,41.246258,-72.998048,blackseparatists
+273,Stone Mountain, GA,New Black Panther Party for Self Defense,33.790051,-84.186566,blackseparatists
+274,Tampa Bay, FL,New Black Panther Party for Self Defense,27.496445,-82.760584,blackseparatists
+275,San Diego, CA,Sicarii 1715,32.534856,-117.282167,blackseparatists
+276,Inland Empire, CA,Sicarii 1716,33.425932,-117.802891,blackseparatists
+277,Seattle, WA,Sicarii 1717,47.495551,-122.435909,blackseparatists
+278,Allentown, PA,The Israelite Church of God in Jesus Christ,40.550173,-75.548002,blackseparatists
+279,Baltimore, MD,The Israelite Church of God in Jesus Christ,39.197207,-76.711519,blackseparatists
+280,Baltimore, MD,The Israelite Church of God in Jesus Christ,39.197207,-76.711519,blackseparatists
+281,Fort Myers, FL,The Israelite Church of God in Jesus Christ,26.54782,-81.895952,blackseparatists
+282,Greensboro, NC,The Israelite Church of God in Jesus Christ,35.985195,-80.006891,blackseparatists
+283,Jersey City, NJ,The Israelite Church of God in Jesus Christ,40.666882,-74.107944,blackseparatists
+284,Los Angeles, CA,The Israelite Church of God in Jesus Christ,33.703692,-118.668176,blackseparatists
+285,Miami, FL,The Israelite Church of God in Jesus Christ,25.709042,-80.319606,blackseparatists
+286,Minneapolis, MN,The Israelite Church of God in Jesus Christ,44.890144,-93.329163,blackseparatists
+287,New York, NY,The Israelite Church of God in Jesus Christ,40.496044,-74.255735,blackseparatists
+288,Oklahoma City, OK,The Israelite Church of God in Jesus Christ,35.290544,-97.833675,blackseparatists
+289,Omaha, NE,The Israelite Church of God in Jesus Christ,41.190548,-96.291356,blackseparatists
+290,Orlando, FL,The Israelite Church of God in Jesus Christ,28.347986,-81.50773,blackseparatists
+291,Philadelphia, PA,The Israelite Church of God in Jesus Christ,39.871514,-75.280303,blackseparatists
+292,Pittsburgh, PA,The Israelite Church of God in Jesus Christ,40.361369,-80.095278,blackseparatists
+293,Portland, OR,The Israelite Church of God in Jesus Christ,45.432393,-122.836995,blackseparatists
+294,Rialto, CA,The Israelite Church of God in Jesus Christ,34.023886,-117.436509,blackseparatists
+295,Washington, DC,The Israelite Church of God in Jesus Christ,38.803149,-77.11974,blackseparatists
+296,Washington, DC,The Israelite Church of God in Jesus Christ,38.803149,-77.11974,blackseparatists
+297,West Palm Beach, FL,The Israelite Church of God in Jesus Christ,26.644674,-80.214617,blackseparatists
+298,Washington, DC,War On The Horizon,38.803149,-77.11974,blackseparatists
+299, Washington, DC, As-Sabiqun,38.803149,-77.11974,blackseparatists
+300, Los Angeles, CA, As-Sabiqun,33.703692,-118.668176,blackseparatists
+301, Oakland, CA, As-Sabiqun,37.699198,-122.342665,blackseparatists
+302, Sacramento, CA, As-Sabiqun,38.437574,-121.56012,blackseparatists
+303, San Diego, CA, As-Sabiqun,32.534856,-117.282167,blackseparatists
+304, Philadelphia, PA, As-Sabiqun,39.871514,-75.280303,blackseparatists
+305, Baltimore, MD, Jamaat al-Muslimeen,39.197207,-76.711519,blackseparatists
+306, Oakland, CA, Masjid al Islam,37.699198,-122.342665,blackseparatists
+307,Henry County, GA,III% Security Force,33.297707,-84.3544,antimuslim
+308,Virginia Beach, VA,ACT for America,36.550453,-76.227748,antimuslim
+309,Jonesboro, AR,ACT for America,35.7486,-90.785927,antimuslim
+310,Tucson, AZ,ACT for America,31.991654,-111.059406,antimuslim
+311,Corona, CA,ACT for America,33.80272,-117.673749,antimuslim
+312,Los Angeles, CA,ACT for America,33.703692,-118.668176,antimuslim
+313,Mission Viejo, CA,ACT for America,33.534915,-117.695252,antimuslim
+314,Denver, CO,ACT for America,39.614431,-105.109927,antimuslim
+315,Cheshire, CT,ACT for America,41.448097,-72.969949,antimuslim
+316,Connecticut,ut,40.98698,-73.727775,antimuslim,
+317,Bear, DE,ACT for America,39.599475,-75.716722,antimuslim
+318,Brevard County, FL,ACT for America,27.822059,-80.98725,antimuslim
+319,Heathrow, FL,ACT for America,28.756149,-81.385463,antimuslim
+320,Jacksonville, FL,ACT for America,30.103748,-82.049502,antimuslim
+321,Palm Beach, FL,ACT for America,26.594351,-80.045482,antimuslim
+322,Des Moines, IA,ACT for America,41.479264,-93.709817,antimuslim
+323,Meridian, ID,ACT for America,43.561197,-116.461977,antimuslim
+324,Twin Falls, ID,ACT for America,42.516282,-114.509264,antimuslim
+325,Des Plaines, IL,ACT for America,41.99543,-87.941271,antimuslim
+326,Baton Rouge, LA,ACT for America,30.323732,-91.216307,antimuslim
+327,Boston, MA,ACT for America,42.22788,-71.191113,antimuslim
+328,Detroit, MI,ACT for America,42.255192,-83.287959,antimuslim
+329,Grand Rapids, MI,ACT for America,42.883666,-85.751532,antimuslim
+330,Minneapolis, MN,ACT for America,44.890144,-93.329163,antimuslim
+331,Ste. Genevieve, MO,ACT for America,37.951725,-90.069694,antimuslim
+332,St. Louis, MO,ACT for America,38.531852,-90.320515,antimuslim
+333,Lake County, MT,ACT for America,47.13807,-114.605244,antimuslim
+334,Kalispell, MT,ACT for America,48.163208,-114.372812,antimuslim
+335,Stillwater County, MT,ACT for America,45.167179,-110.063819,antimuslim
+336,Whitehall, MT,ACT for America,45.865472,-112.109526,antimuslim
+337,Fayetteville, NC,ACT for America,34.981286,-79.091726,antimuslim
+338,Nashua, NH,ACT for America,42.699989,-71.560789,antimuslim
+339,Brooklyn, NY,ACT for America,40.551042,-74.05663,antimuslim
+340,Long Island, NY,ACT for America,40.542979,-74.04195,antimuslim
+341,Cleveland, OH,ACT for America,41.390628,-81.878976,antimuslim
+342,Cincinnati, OH,ACT for America,39.051921,-84.712048,antimuslim
+343,Columbus, OH,ACT for America,39.808631,-83.21028,antimuslim
+344,Rapid City, SD,ACT for America,44.002127,-103.325763,antimuslim
+345,Knoxville, TN,ACT for America,35.849499,-84.161622,antimuslim
+346,Memphis, TN,ACT for America,34.994185,-90.304493,antimuslim
+347,Dallas, TX,ACT for America,32.617537,-96.998941,antimuslim
+348,Houston, TX,ACT for America,29.523624,-95.788087,antimuslim
+349,San Antonio, TX,ACT for America,29.224141,-98.805851,antimuslim
+350,Leesburg, VA,ACT for America,39.066852,-77.602658,antimuslim
+351,Pierce County, WA,ACT for America,46.727986,-122.841513,antimuslim
+352,Spokane Valley, WA,ACT for America,47.599848,-117.346953,antimuslim
+353,Jackson Center, PA,Altra Firearms,41.259964,-80.153142,antimuslim
+354,Nashville, TN,American Constitution Center,35.967785,-87.054903,antimuslim
+355,Los Angeles, CA,American Freedom Alliance,33.703692,-118.668176,antimuslim
+356,New York, NY,American Freedom Defense Initiative,40.496044,-74.255735,antimuslim
+357,Ann Arbor, MI,American Freedom Law Center,42.222668,-83.799572,antimuslim
+358,Helena, MT,American Security Rally of Montana,46.559223,-112.083282,antimuslim
+359,Marina del Rey, CA,Bare Naked Islam,33.964564,-118.46348,antimuslim
+360,Phoenix, AZ,Bomb Islam,33.29026,-112.324056,antimuslim
+361,New York, NY,Bosch Fawstin,40.496044,-74.255735,antimuslim
+362,Irving, TX,Bureau on American Islamic Relations,32.771786,-97.034085,antimuslim
+363,Washington, DC,Center for Security Policy,38.803149,-77.11974,antimuslim
+364,Forest, VA,Christian Action Network,37.316799,-79.342337,antimuslim
+365,Boca Raton, FL,Citizens for National Security,26.320756,-80.171067,antimuslim
+366,Nashville, TN,Citizen Warrior,35.967785,-87.054903,antimuslim
+367,Washington, DC,Clarion Project,38.803149,-77.11974,antimuslim
+368,Buhl, ID,Committee to End the CSI Refugee Center,42.584479,-114.775808,antimuslim
+369,Santa Monica, CA,Counter Jihadist Coalition of Southern California,33.993165,-118.517415,antimuslim
+370,Garden City, KS,The Crusaders,37.954802,-100.901768,antimuslim
+371,Los Angeles, CA,David Horowitz Freedom Center,33.703692,-118.668176,antimuslim
+372,Bellevue, WA,Faith Freedom,47.534614,-122.222931,antimuslim
+373,Washington, DC,Family Security Matters,38.803149,-77.11974,antimuslim
+374,Bellingham, WA,Fortress of Faith,48.688687,-122.524571,antimuslim
+375,Bronx, NY,Foundation for Advocating Christian Truth,40.785743,-73.933808,antimuslim
+376,Pleasant Hill, CA,Islamthreat.com,37.925123,-122.104775,antimuslim
+377,Sherman Oaks, CA,Jihad Watch,34.126188,-118.48773,antimuslim
+378,Aberdeen, SC,Keep South Dakota Safe PAC,57.104152,-2.205893,antimuslim
+379,Fayetteville, TN,Lincoln County Citizen Action Network,35.109939,-86.608575,antimuslim
+380,Priest River, ID,Pig Blood Bullets,48.166085,-116.936566,antimuslim
+381,Nashville, TN,Political Islam,35.967785,-87.054903,antimuslim
+382,New York, NY,Radio Jihad,40.496044,-74.255735,antimuslim
+383,Fairplay, MD,Refugee Resettlement Watch,39.535138,-77.748842,antimuslim
+384,Washington, DC,Religious Awareness Network,38.803149,-77.11974,antimuslim
+385,New Baltimore, MI,Secure Michigan,42.667535,-82.763004,antimuslim
+386,Newtown, PA,The Shoebat Foundation,40.220802,-74.938919,antimuslim
+387,Courtland, VA,Silver Bullet Gun Oil,36.697941,-77.074723,antimuslim
+388,Flagstaff, AZ,Soldiers of Odin,35.122313,-111.709128,antimuslim
+389,Bakersfield, CA,Soldiers of Odin,35.193979,-119.265033,antimuslim
+390,Denver, CO,Soldiers of Odin,39.614431,-105.109927,antimuslim
+391,Springfield, IL,Soldiers of Odin,39.653626,-89.773177,antimuslim
+392,Indianapolis, IN,Soldiers of Odin,39.632177,-86.328121,antimuslim
+393,Manchester, NH,Soldiers of Odin,42.889586,-71.512713,antimuslim
+394,Durham, NC,Soldiers of Odin,35.866725,-79.00765,antimuslim
+395,Cleveland, OH,Soldiers of Odin,41.390628,-81.878976,antimuslim
+396,Cincinnati, OH,Soldiers of Odin,39.051921,-84.712048,antimuslim
+397,Asheville, TN,Soldiers of Odin,35.421565,-82.670873,antimuslim
+398,Dallas, TX,Soldiers of Odin,32.617537,-96.998941,antimuslim
+399,Houston, TX,Stop the Islamization of the World,29.523624,-95.788087,antimuslim
+400,Venice, FL,The Straight Way and More,27.060677,-82.469721,antimuslim
+401,New York, NY,Sultan Knish a blog by Daniel Greenfield,40.496044,-74.255735,antimuslim
+402,Littleton, CO,Team America Political Action Committee,39.561924,-105.061999,antimuslim
+403,Meridian, ID,Treasure Valley Refugee Watch,43.561197,-116.461977,antimuslim
+404,Chattaroy, WA,Truth in Love Project,47.888267,-117.359067,antimuslim
+405,Vienna, VA,Understanding the Threat,38.878494,-77.284763,antimuslim
+406,Lake Worth, FL,The United West,26.593951,-80.082054,antimuslim
+407,Henrico, VA,Virginia Christian Alliance,37.351955,-77.654911,antimuslim
+408,Arlington, VA,Center for Perpetual Diversity,38.82729,-77.172169,whitenationalists
+409,Arlington, VA,National Policy Institute,38.82729,-77.172169,whitenationalists
+410,Atlanta, GA,Alternative Right,33.647808,-84.551819,whitenationalists
+411,Atlanta, GA,Occidental Quarterly,33.647808,-84.551819,whitenationalists
+412,Austin, TX,American Vanguard,30.098659,-97.938383,whitenationalists
+413,Austin, TX,White Lives Matter,30.098659,-97.938383,whitenationalists
+414,Baldwyn, MS,European American Front,34.469819,-88.666399,whitenationalists
+415,Bartlett, TN,The Political Cesspool,35.187257,-89.887861,whitenationalists
+416,Benson, NC,Traditionalist Youth Network,35.36218,-78.567685,whitenationalists
+417,Bloomington, IN,Traditionalist Youth Network,39.121356,-86.592398,whitenationalists
+418,Bremerton, WA,American Vanguard,47.501729,-122.804577,whitenationalists
+419,Bremerton, WA,Northwest Front,47.501729,-122.804577,whitenationalists
+420,Bridgeton, MO,Conservative Citizens Foundation,38.722151,-90.477048,whitenationalists
+421,Charleston, SC,Patriotic Flags,32.668505,-80.14379,whitenationalists
+422,Cheyenne, WY,Wolves of Vinland,41.102181,-104.8609,whitenationalists
+423,Cincinnati, OH,Right Stuff,39.051921,-84.712048,whitenationalists
+424,Clinton Township, MI,Foundation for the Marketplace of Ideas,42.539331,-82.973317,whitenationalists
+425,Columbia, SC,Bob’s Underground Graduate Seminar,33.94342,-81.170978,whitenationalists
+426,Columbus, IN,Traditionalist Worker Party,39.120592,-86.006024,whitenationalists
+427,Columbus, OH,Right Stuff,39.808631,-83.21028,whitenationalists
+428,Columbus, OH,American Vanguard,39.808631,-83.21028,whitenationalists
+429,Converse, LA,South Africa Project,31.763616,-93.708994,whitenationalists
+430,Dallas, TX,Traditionalist Worker Party,32.617537,-96.998941,whitenationalists
+431,Dearborn Heights, MI,White Rabbit Radio,42.26823,-83.312825,whitenationalists
+432,Denver, CO,Wolves of Vinland,39.614431,-105.109927,whitenationalists
+433,Elizabethtown, PA,H.L. Mencken Club,40.137972,-76.618215,whitenationalists
+434,Eufaula, AL,Council of Conservative Citizens,31.781378,-85.279866,whitenationalists
+435,Eufaula, AL,Occidental Dissent,31.781378,-85.279866,whitenationalists
+436,Franklin, TN,Council of Conservative Citizens,35.829384,-86.948061,whitenationalists
+437,Gatlinburg, TN,American Eagle Party,35.697268,-83.568031,whitenationalists
+438,Granbury, TX,American Freedom Party,32.411315,-97.834592,whitenationalists
+439,Grand Forks, ND,American Freedom Party,47.860166,-97.195914,whitenationalists
+440,Hampton Township, PA,American Freedom Union,40.553966,-79.990642,whitenationalists
+441,Hartford, CT,White Lives Matter,41.7238,-72.717638,whitenationalists
+442,Helena, MT,American Freedom Party,46.559223,-112.083282,whitenationalists
+443,Huntington Beach, CA,American Vanguard,33.628954,-118.08252,whitenationalists
+444,Indiana County, IN,American Freedom Party,40.368717,-79.4599,whitenationalists
+445,Indianapolis, IN,Sons & Daughters of Liberty,39.632177,-86.328121,whitenationalists
+446,Jefferson City, MO,American Vanguard,38.524735,-92.287547,whitenationalists
+447,Jefferson City, MO,White Boy Society,38.524735,-92.287547,whitenationalists
+448,Kalispell, MT,Pioneer Little Europe Kalispell Montana,48.163208,-114.372812,whitenationalists
+449,Killeen, TX,Faith and Heritage,31.021491,-97.822125,whitenationalists
+450,Laguna Beach, CA,Occidental Observer,33.484173,-117.819288,whitenationalists
+451,Lakewood Ranch, FL,American Freedom Party,27.386703,-82.459134,whitenationalists
+452,Lansing, MI,White Boy Society,42.647483,-84.624239,whitenationalists
+453,Lehigh County, PA,Right Stuff,40.418451,-75.891473,whitenationalists
+454,Lockport, NY,Racial Nationalist Party of America,43.143757,-78.742455,whitenationalists
+455,Los Angeles, CA,American Freedom Party,33.703692,-118.668176,whitenationalists
+456,Louisville, KY,Traditionalist Worker Party,37.9971,-85.948441,whitenationalists
+457,Lynchburg, VA,Wolves of Vinland,37.33258,-79.271768,whitenationalists
+458,Madisonville, KY,Traditionalist Worker Party,37.284134,-87.554958,whitenationalists
+459,Madson, WI,Traditionalist Youth Network,42.998071,-89.566389,whitenationalists
+460,Madson, WI,White Boy Society,42.998071,-89.566389,whitenationalists
+461,Murray, KY,Traditionalist Worker Party,36.571819,-88.361249,whitenationalists
+462,Nashville, TN,White Lives Matter,35.967785,-87.054903,whitenationalists
+463,Lincoln, NE,American Vanguard,40.711282,-96.80415,whitenationalists
+464,Vineland, NJ,Forza Nuova USA,38.928603,-75.559792,whitenationalists
+465,New York, NY,American Freedom Party,40.496044,-74.255735,whitenationalists
+466,New York, NY,Council of Conservative Citizens,40.496044,-74.255735,whitenationalists
+467,New York, NY,Counter-Currents Publishing,40.496044,-74.255735,whitenationalists
+468,New York, NY,Right Stuff,40.496044,-74.255735,whitenationalists
+469,Oakdale, CA,Identity Evropa,37.737272,-120.883808,whitenationalists
+470,Oakton, VA,American Renaissance,38.863175,-77.338595,whitenationalists
+471,Olympia, WA,Wolves of Vinland,47.000581,-122.964598,whitenationalists
+472,Orlando, FL,American Vanguard,28.347986,-81.50773,whitenationalists
+473,Paoli, IN,Traditionalist Worker Party,38.539247,-86.498728,whitenationalists
+474,Paoli, IN,Traditionalist Youth Network,38.539247,-86.498728,whitenationalists
+475,Pittsburg, PA,American Vanguard,40.361369,-80.095278,whitenationalists
+476,Petoskey, MI,Social Contract Press,45.34486,-85.096132,whitenationalists
+477,Philadelphia, PA,Traditionalist Worker Party,39.871514,-75.280303,whitenationalists
+478,Phoenix, AZ,American Vanguard,33.29026,-112.324056,whitenationalists
+479,Phoenix, AZ,Forza Nuova USA,33.29026,-112.324056,whitenationalists
+480,Pittston, PA,European American Action Coalition,41.310306,-75.807538,whitenationalists
+481,Redding, CA,American Vanguard,40.468919,-122.453864,whitenationalists
+482,Richmong, VA,American Vanguard,37.446553,-77.601011,whitenationalists
+483,Richmong, VA,Traditionalist Worker Party,37.446553,-77.601011,whitenationalists
+484,Roanoke, IN,WTM Enterprises,40.953309,-85.384654,whitenationalists
+485,Rochester, NY,White New York,43.103318,-77.701632,whitenationalists
+486,Sacramento, CA,Traditionalist Worker Party,38.437574,-121.56012,whitenationalists
+487,Salem, OR,Wolves of Vinland,44.853642,-123.122711,whitenationalists
+488,Salt Lake City, UT,American Vanguard,40.700246,-112.101512,whitenationalists
+489,San Francisco, CA,Counter-Currents Publishing,37.7034,-122.527,whitenationalists
+490,Seattle, WA,Counter-Currents Publishing,47.495551,-122.435909,whitenationalists
+491,Silver Spring, MD,Council of Conservative Citizens,38.979648,-77.063972,whitenationalists
+492,Silver Spring, MD,Heritage and Destiny,38.979648,-77.063972,whitenationalists
+493,Springfield, IL,Sons & Daughters of Liberty,39.653626,-89.773177,whitenationalists
+494,Springfield, IL,White Boy Society,39.653626,-89.773177,whitenationalists
+495,St. Louis, MO,Council of Conservative Citizens,38.531852,-90.320515,whitenationalists
+496,Tallahassee, FL,Sons & Daughters of Liberty,30.346942,-84.383886,whitenationalists
+497,Topeka, KS,Traditionalist Worker Party,38.916844,-95.812263,whitenationalists
+498,Topeka, KS,White Boy Society,38.916844,-95.812263,whitenationalists
+499,Tucson, AZ,Free American,31.991654,-111.059406,whitenationalists
+500,Vienna, VA,Fitzgerald Griffin Foundation,38.878494,-77.284763,whitenationalists
+501,Warrenton, VA,VDARE Foundation,38.693444,-77.824558,whitenationalists
+502,Washington, DC,Phalanx,38.803149,-77.11974,whitenationalists
+503,Washington, DC,Scott-Townsend Publishers,38.803149,-77.11974,whitenationalists
+504,West Palm Beach, FL,Stormfront,26.644674,-80.214617,whitenationalists
+505,Whitefish, MT,National Policy Institute,48.37273,-114.433052,whitenationalists
+506,Whitefish, MT,Radix Journal,48.37273,-114.433052,whitenationalists
+507,Whitefish, MT,Washington Summit Publishers,48.37273,-114.433052,whitenationalists
+508,Lyons, IL,America First Committee,41.799025,-87.840458,neonazi
+509,Westland, MI,American Nazi Party,42.267463,-83.430038,neonazi
+510,Sacramento, CA,American Nazi Party,38.437574,-121.56012,neonazi
+511,Charlestone, WV,American Nazi Party,38.281139,-81.727777,neonazi
+512,Baton Rouge, LA,Aryan Nations,30.323732,-91.216307,neonazi
+513,Converse, LA,Aryan Nations,31.763616,-93.708994,neonazi
+514,Wood River, IL,Aryan Nations Sadistic Souls MC,38.842695,-90.120009,neonazi
+515,Montgomery, AL,Aryan Nations Sadistic Souls MC,32.249921,-86.41987,neonazi
+516,Canton, IL,Aryan Nations Sadistic Souls MC,40.52982,-90.085797,neonazi
+517,Taylorville, IL,Aryan Nations Sadistic Souls MC,39.462768,-89.337653,neonazi
+518,Grovespring, MO,Aryan Nations Sadistic Souls MC,37.39842,-92.610963,neonazi
+519,Columbus, OH,Aryan Nations Sadistic Souls MC,39.808631,-83.21028,neonazi
+520,Oklahoma City, OK,Aryan Nations Sadistic Souls MC,35.290544,-97.833675,neonazi
+521,Nashville, TN,Aryan Nations Sadistic Souls MC,35.967785,-87.054903,neonazi
+522,Madison, WI,Aryan Nations Sadistic Souls MC,42.998071,-89.566389,neonazi
+523,Villa Rica, GA,Aryan Nations Worldwide,33.681689,-84.970625,neonazi
+524,New York, NY,Aryan Renaissance Society,40.496044,-74.255735,neonazi
+525,Nashville, TN,Aryan Renaissance Society,35.967785,-87.054903,neonazi
+526,Austin, TX,Aryan Renaissance Society,30.098659,-97.938383,neonazi
+527,San Antonio, TX,Atomwaffen Division,29.224141,-98.805851,neonazi
+528,Bloomington, IL,The Creativity Movement,40.429426,-89.067871,neonazi
+529,Worthington, OH,The Daily Stormer,40.074131,-83.055387,neonazi
+530,Cullman, AL,The Daily Stormer,34.099693,-86.900727,neonazi
+531,Phoenix, AZ,The Daily Stormer,33.29026,-112.324056,neonazi
+532,Los Angeles, CA,The Daily Stormer,33.703692,-118.668176,neonazi
+533,Mountain View, CA,The Daily Stormer,37.35676,-122.117862,neonazi
+534,Santa Cruz, CA,The Daily Stormer,36.94802,-122.075109,neonazi
+535,Santa Monica, CA,The Daily Stormer,33.993165,-118.517415,neonazi
+536,Denver, CO,The Daily Stormer,39.614431,-105.109927,neonazi
+537,Brandon, FL,The Daily Stormer,27.87887,-82.343895,neonazi
+538,Orlando, FL,The Daily Stormer,28.347986,-81.50773,neonazi
+539,Amana, IA,The Daily Stormer,41.799456,-91.869351,neonazi
+540,Indianapolis, IN,The Daily Stormer,39.632177,-86.328121,neonazi
+541,Louisville, KY,The Daily Stormer,37.9971,-85.948441,neonazi
+542,Cambridge, MA,The Daily Stormer,42.352397,-71.160332,neonazi
+543,Lowell, MA,The Daily Stormer,42.607189,-71.382491,neonazi
+544,Baltimore, MD,The Daily Stormer,39.197207,-76.711519,neonazi
+545,St. Louis, MO,The Daily Stormer,38.531852,-90.320515,neonazi
+546,Asheville, NC,The Daily Stormer,35.421565,-82.670873,neonazi
+547,Charlotte, NC,The Daily Stormer,35.013174,-81.009554,neonazi
+548,Raleigh, NC,The Daily Stormer,35.715808,-78.819049,neonazi
+549,New York, NY,The Daily Stormer,40.496044,-74.255735,neonazi
+550,Las Vegas, NV,The Daily Stormer,35.95,-115.4,neonazi
+551,Columbus, OH,The Daily Stormer,39.808631,-83.21028,neonazi
+552,Pittsburgh, PA,The Daily Stormer,40.361369,-80.095278,neonazi
+553,Nashville, TN,The Daily Stormer,35.967785,-87.054903,neonazi
+554,Austin, TX,The Daily Stormer,30.098659,-97.938383,neonazi
+555,Dallas, TX,The Daily Stormer,32.617537,-96.998941,neonazi
+556,Wichita Falls, TX,The Daily Stormer,33.835649,-98.61438,neonazi
+557,Burlington, VT,The Daily Stormer,44.445928,-73.276914,neonazi
+558,Seattle, WA,The Daily Stormer,47.495551,-122.435909,neonazi
+559,Spokane, WA,The Daily Stormer,47.587192,-117.520456,neonazi
+560,Richmond, VA,EinherjarÍs Honor Wotansvolk,37.446553,-77.601011,neonazi
+561,Tallahassee, FL,Endangered Souls RC,30.346942,-84.383886,neonazi
+562,Boise, ID,Endangered Souls RC,43.511717,-116.365887,neonazi
+563,Grand Rapids, MI,Gallows Tree Wotansvolk Alliance,42.883666,-85.751532,neonazi
+564,Sacramento, CA,Gallows Tree Wotansvolk Alliance,38.437574,-121.56012,neonazi
+565,Tallahassee, FL,Gallows Tree Wotansvolk Alliance,30.346942,-84.383886,neonazi
+566,Indianapolis, IN,Gallows Tree Wotansvolk Alliance,39.632177,-86.328121,neonazi
+567,Des Moines, IA,Gallows Tree Wotansvolk Alliance,41.479264,-93.709817,neonazi
+568,Boston, MA,Gallows Tree Wotansvolk Alliance,42.22788,-71.191113,neonazi
+569,Saint Paul, MN,Gallows Tree Wotansvolk Alliance,44.887399,-93.207787,neonazi
+570,Providence, RI,Gallows Tree Wotansvolk Alliance,41.772414,-71.472642,neonazi
+571,Austin, TX,Gallows Tree Wotansvolk Alliance,30.098659,-97.938383,neonazi
+572,Laurel Bloomery, TN,National Alliance,36.56488,-81.76091,neonazi
+573,Carson City, NV,National Alliance Reform and Restoration Group,39.084796,-119.956952,neonazi
+574,Detroit, MI,National Socialist Movement,42.255192,-83.287959,neonazi
+575,Tucson, AZ,National Socialist Movement,31.991654,-111.059406,neonazi
+576,Hartford, CT,National Socialist Movement,41.7238,-72.717638,neonazi
+577,Tallahassee, FL,National Socialist Movement,30.346942,-84.383886,neonazi
+578,Atlanta, GA,National Socialist Movement,33.647808,-84.551819,neonazi
+579,Des Moines, IA,National Socialist Movement,41.479264,-93.709817,neonazi
+580,Frankfort, KY,National Socialist Movement,38.157841,-84.923645,neonazi
+581,Baton Rouge, LA,National Socialist Movement,30.323732,-91.216307,neonazi
+582,Annapolis, MD,National Socialist Movement,38.942027,-76.539584,neonazi
+583,Jackson, MS,National Socialist Movement,32.209659,-90.321891,neonazi
+584,Trenton, NJ,National Socialist Movement,40.184257,-74.81934,neonazi
+585,New York, NY,National Socialist Movement,40.496044,-74.255735,neonazi
+586,Columbus, OH,National Socialist Movement,39.808631,-83.21028,neonazi
+587,Salem, OR,National Socialist Movement,44.853642,-123.122711,neonazi
+588,Harrisburg, PA,National Socialist Movement,40.237601,-76.924457,neonazi
+589,Nashville, TN,National Socialist Movement,35.967785,-87.054903,neonazi
+590,Austin, TX,National Socialist Movement,30.098659,-97.938383,neonazi
+591,Salt Lake City, UT,National Socialist Movement,40.700246,-112.101512,neonazi
+592,Madison, WI,National Socialist Movement,42.998071,-89.566389,neonazi
+593,Milwaukee, WI,New Order,42.920816,-88.070876,neonazi
+594,Sacramento, CA,Noble Breed Kindred,38.437574,-121.56012,neonazi
+595,Wyandotte, MI,NS Publications,42.185014,-83.181239,neonazi
+596,Rapid City, SD,PzG Inc.,44.002127,-103.325763,neonazi
+597,Fairbury, NE,Third Reich Books,40.125893,-97.194042,neonazi
+598,Harrisburg, PA,Werewolf 88,40.237601,-76.924457,neonazi
+599,Warsaw, IN,White Aryan Resistance,41.204872,-85.891257,neonazi
+600,Madison, WI,White Devil Social Club,42.998071,-89.566389,neonazi
+601,Fort Wayne, IN,Wolfhook Life Clothing,40.965447,-85.303173,neonazi
+602,Aiken, SC,League of the South,33.471154,-81.779033,neoconfederate
+603,Aiken, SC,Southern Future,33.471154,-81.779033,neoconfederate
+604,Alexandria, VA,Southern National Congress,38.789902,-77.144359,neoconfederate
+605,Annapolis, MD,Southern National Congress,38.942027,-76.539584,neoconfederate
+606,Anniston, AL,League of the South,33.599966,-85.931236,neoconfederate
+607,Austin, TX,Southern National Congress,30.098659,-97.938383,neoconfederate
+608,Baldwyn, MS,Pace Confederate Depot,34.469819,-88.666399,neoconfederate
+609,Baton Rouge, LA,Southern National Congress,30.323732,-91.216307,neoconfederate
+610,Clements, MD,League of the South,38.323174,-76.729225,neoconfederate
+611,Conroe, TX,League of the South,30.203375,-95.656788,neoconfederate
+612,Fruit Hill, KY,Southern National Congress,37.003417,-87.369683,neoconfederate
+613,Ft. Mitchell, KY,League of the South,39.026739,-84.580176,neoconfederate
+614,Harrison, AR,League of the South,36.205615,-93.159356,neoconfederate
+615,Jackson, MS,Southern National Congress,32.209659,-90.321891,neoconfederate
+616,Jacksonville, FL,League of the South,30.103748,-82.049502,neoconfederate
+617,Jacksonville, FL,Southern National Congress,30.103748,-82.049502,neoconfederate
+618,Killen, AL,League of the South,34.848041,-87.553965,neoconfederate
+619,La Porte, TX,League of the South,29.614733,-95.112885,neoconfederate
+620,Lake City, FL,League of the South,30.156529,-82.710306,neoconfederate
+621,Little Rock, AR,Southern National Congress,34.626061,-92.520911,neoconfederate
+622,Lobelville, TN,League of the South,35.693814,-87.820104,neoconfederate
+623,Lobelville, TN,Mary Noel Kershaw Foundation,35.693814,-87.820104,neoconfederate
+624,Logansport, LA,League of the South,31.958959,-94.016658,neoconfederate
+625,London, KY,League of the South,37.079759,-84.126262,neoconfederate
+626,Macon, GA,League of the South,32.765651,-83.739741,neoconfederate
+627,Miami, FL,League of the South,25.709042,-80.319606,neoconfederate
+628,Morganton, GA,Southern National Congress,34.867595,-84.254074,neoconfederate
+629,Nashville, TN,Southern National Congress,35.967785,-87.054903,neoconfederate
+630,Perkinston, MS,FreeMississippi,30.777497,-89.154463,neoconfederate
+631,Raleigh, NC,Southern National Congress,35.715808,-78.819049,neoconfederate
+632,Snow Camp, NC,ACTBAC NC,35.892123,-79.431369,neoconfederate
+633,Taylorsville, KY,League of the South,38.016794,-85.376746,neoconfederate
+634,Travelers Rest, SC,Dixie Republic,34.941395,-82.46665,neoconfederate
+635,Travelers Rest, SC,Southern National Congress,34.941395,-82.46665,neoconfederate
+636,Tupelo, MS,League of the South,34.203781,-88.80041,neoconfederate
+637,Tuscaloosa, AL,League of the South,33.114897,-87.661589,neoconfederate
+638,Waxahachie, TX,League of the South,32.316575,-96.963553,neoconfederate
+639,West Plains, MO,League of the South,36.699547,-91.914171,neoconfederate
+640,West Plains, MO,Southern National Congress,36.699547,-91.914171,neoconfederate
+641,Wetumpka, AL,League of the South,32.458713,-86.258916,neoconfederate
+642,Wetumpka, AL,Southern National Congress,32.458713,-86.258916,neoconfederate
+643,Wilmington, NC,League of the South,34.147246,-77.956303,neoconfederate
+644,Winchester, VA,League of the South,39.13097,-78.200731,neoconfederate
+645,Ablabany, GA,Crew 38,31.522298,-84.273217,racistsskinheads
+646,Annapolis, MD,Be Active Front USA,38.942027,-76.539584,racistsskinheads
+647,Asheville, TN,Crew 38,35.421565,-82.670873,racistsskinheads
+648,Atlanta, GA,Blood and Honour Social Club,33.647808,-84.551819,racistsskinheads
+649,Atlantic City, NJ,AC Skins,39.343034,-74.496464,racistsskinheads
+650,Augusta, ME,Crew 38,44.275081,-69.835899,racistsskinheads
+651,Baltimore, MD,Maryland State Skinheads,39.197207,-76.711519,racistsskinheads
+652,Baltimore, MD,Crew 38,39.197207,-76.711519,racistsskinheads
+653,Boise, ID,Crew 38,43.511717,-116.365887,racistsskinheads
+654,Boston, MA,Aryan Strikeforce,42.22788,-71.191113,racistsskinheads
+655,Charleston, WV,Aryan Strikeforce,38.281139,-81.727777,racistsskinheads
+656,Charlotte, NC,Confederate Hammerskins,35.013174,-81.009554,racistsskinheads
+657,Chicago, IL,Crew 38,41.644335,-87.940267,racistsskinheads
+658,Chicago, IL,Northern Hammerskins,41.644335,-87.940267,racistsskinheads
+659,Cleveland, OH,Blood and Honour Social Club,41.390628,-81.878976,racistsskinheads
+660,Columbus, OH,Aryan Strikeforce,39.808631,-83.21028,racistsskinheads
+661,Concord, NH,Crew 38,43.151787,-71.66871,racistsskinheads
+662,Dallas, TX,Vinlanders Social Club,32.617537,-96.998941,racistsskinheads
+663,Denver, CO,Aryan Strikeforce,39.614431,-105.109927,racistsskinheads
+664,Detroit, MI,Northern Hammerskins,42.255192,-83.287959,racistsskinheads
+665,Ellensburh, WA,Northwestern Hammerskins,46.966926,-120.59498,racistsskinheads
+666,Evansville, IN,Vinlanders Social Club,37.935588,-87.637548,racistsskinheads
+667,Frankfort, KY,Aryan Strikeforce,38.157841,-84.923645,racistsskinheads
+668,Greensboro, NC,Blood and Honour Social Club,35.985195,-80.006891,racistsskinheads
+669,Harrisburg, PA,Keystone State Skinheads,40.237601,-76.924457,racistsskinheads
+670,Harrisburg, PA,Be Active Front USA,40.237601,-76.924457,racistsskinheads
+671,Harrisonburg, VA,Supreme White Alliance,38.389363,-78.918112,racistsskinheads
+672,Idaho Falls, ID,Northwestern Hammerskins,43.431942,-112.093347,racistsskinheads
+673,Indianapolis, IN,Blood and Honour Social Club,39.632177,-86.328121,racistsskinheads
+674,Indianapolis, IN,American Vikings,39.632177,-86.328121,racistsskinheads
+675,Jacksonville, FL,Supreme White Alliance,30.103748,-82.049502,racistsskinheads
+676,Jefferson, MS,Aryan Strikeforce,31.610068,-91.365614,racistsskinheads
+677,Lafayette, IN,Aryan Strikeforce,40.355483,-86.926105,racistsskinheads
+678,Lexington, KY,Crew 38,37.845256,-84.660415,racistsskinheads
+679,Little Rock, AR,Aryan Strikeforce,34.626061,-92.520911,racistsskinheads
+680,Lousville, KY,Supreme White Alliance,37.9971,-85.948441,racistsskinheads
+681,Manchester, NH,Eastern Hammerskins,42.889586,-71.512713,racistsskinheads
+682,Miami, FL,Confederate Hammerskins,25.709042,-80.319606,racistsskinheads
+683,Nashville, TN,Confederate Hammerskins,35.967785,-87.054903,racistsskinheads
+684,Nashville, TN,Aryan Strikeforce,35.967785,-87.054903,racistsskinheads
+685,New York, NY,Aryan Strikeforce,40.496044,-74.255735,racistsskinheads
+686,New York, NY,Blood and Honour Social Club,40.496044,-74.255735,racistsskinheads
+687,New York, NY,Blood and Honour Social Club,40.496044,-74.255735,racistsskinheads
+688,Oildale, CA,Vinland Clothing,35.39717,-119.061144,racistsskinheads
+689,Olympia, WA,Blood and Honour America Division,47.000581,-122.964598,racistsskinheads
+690,Orlando, FL,Firm 22,28.347986,-81.50773,racistsskinheads
+691,Philadelphia, PA,Keystone State Skinheads,39.871514,-75.280303,racistsskinheads
+692,Philandelphia, PA,Aryan Strikeforce,39.871514,-75.280303,racistsskinheads
+693,Phillipsburg, NJ,Aryan Strikeforce,40.666172,-75.203354,racistsskinheads
+694,Phoenix, AZ,Vinlanders Social Club,33.29026,-112.324056,racistsskinheads
+695,Pierre, SD,Midland Hammerskins,44.34133,-100.371866,racistsskinheads
+696,Pittsburgh, PA,Supreme White Alliance,40.361369,-80.095278,racistsskinheads
+697,Portland, OR,Northwestern Hammerskins,45.432393,-122.836995,racistsskinheads
+698,Raleigh, NC,Crew 38,35.715808,-78.819049,racistsskinheads
+699,Redding, CA,Golden State Skinheads,40.468919,-122.453864,racistsskinheads
+700,Richmond, VA,Aryan Strikeforce,37.446553,-77.601011,racistsskinheads
+701,Roanoke, VA,Confederate Hammerskins,37.211227,-80.037598,racistsskinheads
+702,Sacramento, CA,California Skinheads,38.437574,-121.56012,racistsskinheads
+703,Sacramento, CA,Sacto Skins,38.437574,-121.56012,racistsskinheads
+704,Saint Paul, MN,Vinlanders Social Club,44.887399,-93.207787,racistsskinheads
+705,Salem, OR,American Front,44.853642,-123.122711,racistsskinheads
+706,San Dieco, CA,Western Hammerskins,32.534856,-117.282167,racistsskinheads
+707,San Diego, CA,Golden State Skinheads,32.534856,-117.282167,racistsskinheads
+708,San Francisco, CA,Crew 38,37.7034,-122.527,racistsskinheads
+709,San Jose, CA,Vinlanders Social Club,37.124493,-122.045668,racistsskinheads
+710,Savannah, GA,Confederate Hammerskins,31.887691,-81.370391,racistsskinheads
+711,Scranton, PA,Blood and Honour Social Club,41.33978,-75.719836,racistsskinheads
+712,Seattle, WA,American Front,47.495551,-122.435909,racistsskinheads
+713,Spokane, WA,Crew 38,47.587192,-117.520456,racistsskinheads
+714,St. Louis, MS,Supreme White Alliance,30.293771,-89.368346,racistsskinheads
+715,Tallahassee, FL,Vinlanders Social Club,30.346942,-84.383886,racistsskinheads
+716,Tampa, FL,Crew 38,27.82106,-82.648655,racistsskinheads
+717,Toledo, OH,Supreme White Alliance,41.580266,-83.694237,racistsskinheads
+718,Virginia Beach, VA,Crew 38,36.550453,-76.227748,racistsskinheads
+719,Wichita, KS,Crew 38,37.557822,-97.534892,racistsskinheads
+720,Wichita, KS,Midland Hammerskins,37.557822,-97.534892,racistsskinheads
+721,Wilmington, NC,Vinlanders Social Club,34.147246,-77.956303,racistsskinheads
+722,Yakima, WA,Vinlanders Social Club,46.557281,-120.635779,racistsskinheads
+723,Cocoa, FL,Christian American Knights of the Ku Klux Klan,28.345385,-80.820751,KKK
+724,Hoxie, AR,Christian American Knights of the Ku Klux Klan,36.023392,-91.00052,KKK
+725,Bushnell, FL,Christian American Knights of the Ku Klux Klan,28.64681,-82.142048,KKK
+726,Panama, NY,Church of the National Knights of the Ku Klux Klan,42.063744,-79.499388,KKK
+727,Frankfort, KY,Church of the National Knights of the Ku Klux Klan,38.157841,-84.923645,KKK
+728,Horn Lake, MS,Church of the National Knights of the Ku Klux Klan,34.918636,-90.09656,KKK
+729,Raleigh, NC,Church of the National Knights of the Ku Klux Klan,35.715808,-78.819049,KKK
+730,Rosedale, MD,Confederate White Knights of the Ku Klux Klan,39.29911,-76.529992,KKK
+731,Greenwood, IN,Confederate White Knights of the Ku Klux Klan,39.571337,-86.164832,KKK
+732,Auburn, IN,Confederate White Knights of the Ku Klux Klan,41.342693,-85.091762,KKK
+733,Madison, IN,Confederate White Knights of the Ku Klux Klan,38.718631,-85.45029,KKK
+734,Morehead, KY,Confederate White Knights of the Ku Klux Klan,38.163226,-83.496112,KKK
+735,Saint Martinville, LA,Confederate White Knights of the Ku Klux Klan,30.107784,-91.856773,KKK
+736,Sikeston, MO,Confederate White Knights of the Ku Klux Klan,36.850139,-89.635956,KKK
+737,Vale, NC,Confederate White Knights of the Ku Klux Klan,35.500824,-81.439603,KKK
+738,Toms River, NJ,Confederate White Knights of the Ku Klux Klan,39.942548,-74.270651,KKK
+739,Walterboro, SC,Confederate White Knights of the Ku Klux Klan,32.870284,-80.721467,KKK
+740,Richmond, VA,Confederate White Knights of the Ku Klux Klan,37.446553,-77.601011,KKK
+741,Venus, TX,East Coast Knights Of The True Invisible Empire,32.386861,-97.156718,KKK
+742,Nassau, DE,East Coast Knights Of The True Invisible Empire,38.750708,-75.189034,KKK
+743,Annapolis, MD,East Coast Knights Of The True Invisible Empire,38.942027,-76.539584,KKK
+744,Raleigh, NC,East Coast Knights Of The True Invisible Empire,35.715808,-78.819049,KKK
+745,Girardville, PA,East Coast Knights Of The True Invisible Empire,40.789185,-76.295647,KKK
+746,Live Oak, FL,Georgia Knight Riders of the Ku Klux Klan,30.27507,-83.009316,KKK
+747,Alpena, MI,Great Lakes Knights of the Ku Klux Klan,45.041799,-83.476641,KKK
+748,Vanndale, AR,International Keystone Knights of the Ku Klux Klan,35.312071,-90.775351,KKK
+749,Cedartown, GA,International Keystone Knights of the Ku Klux Klan,33.961991,-85.299526,KKK
+750,Jackson, MS,International Keystone Knights of the Ku Klux Klan,32.209659,-90.321891,KKK
+751,Harrison, AR,Knights of the Ku Klux Klan,36.205615,-93.159356,KKK
+752,Hudson, FL,Knights of the White Disciples,28.338083,-82.723517,KKK
+753,Raleigh, NC,Knights of the White Disciples,35.715808,-78.819049,KKK
+754,Church Hill, TN,Ku Klos Knights of the Ku Klux Klan,36.496492,-82.792391,KKK
+755,Hazel Green, AL,Ku Klos Knights of the Ku Klux Klan,34.902284,-86.600525,KKK
+756,Vance, AL,Ku Klos Knights of the Ku Klux Klan,33.109838,-87.280517,KKK
+757,Cape Coral, FL,Ku Klos Knights of the Ku Klux Klan,26.52521,-82.091363,KKK
+758,Hudson, FL,Ku Klos Knights of the Ku Klux Klan,28.338083,-82.723517,KKK
+759,Wauchula, FL,Ku Klos Knights of the Ku Klux Klan,27.527102,-81.842152,KKK
+760,Gurnee, IL,Ku Klos Knights of the Ku Klux Klan,42.327436,-88.003022,KKK
+761,Springfield, IL,Ku Klos Knights of the Ku Klux Klan,39.653626,-89.773177,KKK
+762,Indianapolis, IN,Ku Klos Knights of the Ku Klux Klan,39.632177,-86.328121,KKK
+763,Kokomo, IN,Ku Klos Knights of the Ku Klux Klan,40.41887,-86.184393,KKK
+764,Muncie, IN,Ku Klos Knights of the Ku Klux Klan,40.149103,-85.454449,KKK
+765,Indianapolis, IN,Ku Klos Knights of the Ku Klux Klan,39.632177,-86.328121,KKK
+766,Harrodsburg, KY,Ku Klos Knights of the Ku Klux Klan,37.723152,-84.876672,KKK
+767,Battle Creek, MI,Ku Klos Knights of the Ku Klux Klan,42.246071,-85.298024,KKK
+768,Springfield, MO,Ku Klos Knights of the Ku Klux Klan,37.087402,-93.414006,KKK
+769,Leakesville, MS,Ku Klos Knights of the Ku Klux Klan,31.142718,-88.570153,KKK
+770,Chapel Hill, NC,Ku Klos Knights of the Ku Klux Klan,35.869552,-79.083171,KKK
+771,Sanford, NC,Ku Klos Knights of the Ku Klux Klan,35.410811,-79.243784,KKK
+772,Hempstead, NY,Ku Klos Knights of the Ku Klux Klan,40.684493,-73.643173,KKK
+773,Bally, PA,Ku Klos Knights of the Ku Klux Klan,40.394188,-75.596384,KKK
+774,Butler, TN,Ku Klos Knights of the Ku Klux Klan,36.348302,-82.044345,KKK
+775,Erwin, TN,Ku Klos Knights of the Ku Klux Klan,36.115583,-82.448002,KKK
+776,Hendersonville, TN,Ku Klos Knights of the Ku Klux Klan,36.247911,-86.678245,KKK
+777,Hixson, TN,Ku Klos Knights of the Ku Klux Klan,35.10667,-85.282588,KKK
+778,Knoxville, TN,Ku Klos Knights of the Ku Klux Klan,35.849499,-84.161622,KKK
+779,Lexington, TN,Ku Klos Knights of the Ku Klux Klan,35.611096,-88.451128,KKK
+780,Memphis, TN,Ku Klos Knights of the Ku Klux Klan,34.994185,-90.304493,KKK
+781,Murfreesboro, TN,Ku Klos Knights of the Ku Klux Klan,35.762729,-86.503532,KKK
+782,Columbus, OH,Ku Klos Knights of the Ku Klux Klan,39.808631,-83.21028,KKK
+783,Meadville, PA,Ku Klos Knights of the Ku Klux Klan,41.623489,-80.171433,KKK
+784,Oil City, PA,Ku Klos Knights of the Ku Klux Klan,41.405165,-79.733466,KKK
+785,Gatesville, TX,Ku Klos Knights of the Ku Klux Klan,31.385159,-97.794275,KKK
+786,Austin, TX,Ku Klos Knights of the Ku Klux Klan,30.098659,-97.938383,KKK
+787,Richmond, VA,Ku Klos Knights of the Ku Klux Klan,37.446553,-77.601011,KKK
+788,Pelham, NC,Loyal White Knights of the Ku Klux Klan,36.50879,-79.47304,KKK
+789,Birmingham, AL,Loyal White Knights of the Ku Klux Klan,33.38376,-87.122124,KKK
+790,Cullman, AL,Loyal White Knights of the Ku Klux Klan,34.099693,-86.900727,KKK
+791,Huntsville, AL,Loyal White Knights of the Ku Klux Klan,34.537651,-86.905704,KKK
+792,Mobile, AL,Loyal White Knights of the Ku Klux Klan,30.560374,-88.221253,KKK
+793,Montgomery, AL,Loyal White Knights of the Ku Klux Klan,32.249921,-86.41987,KKK
+794,Anaheim, CA,Loyal White Knights of the Ku Klux Klan,33.788916,-118.017595,KKK
+795,San Francisco, CA,Loyal White Knights of the Ku Klux Klan,37.7034,-122.527,KKK
+796,Jacksonville, FL,Loyal White Knights of the Ku Klux Klan,30.103748,-82.049502,KKK
+797,Canton, GA,Loyal White Knights of the Ku Klux Klan,34.174106,-84.549765,KKK
+798,Covington, GA,Loyal White Knights of the Ku Klux Klan,33.55798,-83.898495,KKK
+799,Dallas, GA,Loyal White Knights of the Ku Klux Klan,33.890061,-84.8974,KKK
+800,Valdosta, GA,Loyal White Knights of the Ku Klux Klan,30.762471,-83.344513,KKK
+801,Clay City, IL,Loyal White Knights of the Ku Klux Klan,38.675582,-88.36531,KKK
+802,Baton Rouge, LA,Loyal White Knights of the Ku Klux Klan,30.323732,-91.216307,KKK
+803,Trenton, MI,Loyal White Knights of the Ku Klux Klan,42.111915,-83.221297,KKK
+804,Jackson, MS,Loyal White Knights of the Ku Klux Klan,32.209659,-90.321891,KKK
+805,Hampton Bays, NY,Loyal White Knights of the Ku Klux Klan,40.815482,-72.571648,KKK
+806,Columbus, OH,Loyal White Knights of the Ku Klux Klan,39.808631,-83.21028,KKK
+807,Charleston, SC,Loyal White Knights of the Ku Klux Klan,32.668505,-80.14379,KKK
+808,Fort Worth, TX,Loyal White Knights of the Ku Klux Klan,32.552315,-97.544923,KKK
+809,Danville, VA,Loyal White Knights of the Ku Klux Klan,36.540822,-79.519301,KKK
+810,Richmond, VA,Loyal White Knights of the Ku Klux Klan,37.446553,-77.601011,KKK
+811,Dixonville, PA,Militant Knights Ku Klux Klan,40.701829,-79.024559,KKK
+812,Montgomery, AL,Militant Knights Ku Klux Klan,32.249921,-86.41987,KKK
+813,Augusta, ME,Militant Knights Ku Klux Klan,44.275081,-69.835899,KKK
+814,Alpena, MI,Militant Knights Ku Klux Klan,45.041799,-83.476641,KKK
+815,Minneapolis, MN,Militant Knights Ku Klux Klan,44.890144,-93.329163,KKK
+816,Jackson, MS,Militant Knights Ku Klux Klan,32.209659,-90.321891,KKK
+817,Jefferson City, MO,Militant Knights Ku Klux Klan,38.524735,-92.287547,KKK
+818,Trenton, NJ,Militant Knights Ku Klux Klan,40.184257,-74.81934,KKK
+819,Albany, NY,Militant Knights Ku Klux Klan,42.613901,-73.898099,KKK
+820,Columbus, OH,Militant Knights Ku Klux Klan,39.808631,-83.21028,KKK
+821,Gladeville, TN,Militant Knights Ku Klux Klan,36.111209,-86.41773,KKK
+822,Flint, TX,Militant Knights Ku Klux Klan,32.202695,-95.349912,KKK
+823,Dawson Springs, KY,Nordic Order Knights of the Ku Klux Klan,37.148265,-87.709643,KKK
+824,Montgomery, AL,Nordic Order Knights of the Ku Klux Klan,32.249921,-86.41987,KKK
+825,Tupelo, MS,North Mississippi White Knights Of The Ku Klux Klan,34.203781,-88.80041,KKK
+826,Richmond, VA,Old Dominion Knights of the Ku Klux Klan,37.446553,-77.601011,KKK
+827,Vincent, OH,Old Glory Knights of the Ku Klux Klan,39.370456,-81.680974,KKK
+828,Beckley, WV,Original Knight Riders Knights of the Ku Klux Klan,37.75765,-81.220509,KKK
+829,Columbus, OH,Outlaw Knights of the Ku Klux Klan,39.808631,-83.21028,KKK
+830,Sacramento, CA,Pacific Coast Knights of the Ku Klux Klan,38.437574,-121.56012,KKK
+831,Spokane, WA,Pacific Coast Knights of the Ku Klux Klan,47.587192,-117.520456,KKK
+832,Gladewater, TX,Patriotic Brigade Knights of the Ku Klux Klan,32.509771,-94.986368,KKK
+833,Martinsville, VA,Rebel Brigade Knights True Invisible Empire,36.643805,-79.904077,KKK
+834,Columbus, OH,Southern Ohio Knights of the Ku Klux Klan,39.808631,-83.21028,KKK
+835,Quinlan, TX,Texas Rebel Knights of the Ku Klux Klan,32.898463,-96.154053,KKK
+836,Park Hills, MO,Traditionalist American Knights of the Ku Klux Klan,37.762739,-90.553577,KKK
+837,Hayden, ID,Traditionalist American Knights of the Ku Klux Klan,47.741683,-116.851147,KKK
+838,Harrisbourg, PA,Traditionalist American Knights of the Ku Klux Klan,40.237601,-76.924457,KKK
+839,Leakesville, MS,United Dixie White Knights Ku Klux Klan,31.142718,-88.570153,KKK
+840,Montgomery, AL,United Dixie White Knights Ku Klux Klan,32.249921,-86.41987,KKK
+841,Springfield, IL,United Dixie White Knights Ku Klux Klan,39.653626,-89.773177,KKK
+842,Indianapolis, IN,United Dixie White Knights Ku Klux Klan,39.632177,-86.328121,KKK
+843,Plantersville, MS,United Dixie White Knights Ku Klux Klan,34.197614,-88.683209,KKK
+844,Raleigh, NC,United Dixie White Knights Ku Klux Klan,35.715808,-78.819049,KKK
+845,Ashland, AL,United Klans of America,33.23632,-85.881233,KKK
+846,Harrisburg, PA,United Klans of America,40.237601,-76.924457,KKK
+847,McMinnville, TN,United Klans of America,35.639997,-85.82527,KKK
+848,Austin, TX,United Klans of America,30.098659,-97.938383,KKK
+849,East Ellijay, GA,United Northern and Southern Knights of the Ku Klux Klan,34.640421,-84.496286,KKK
+850,Sacramento, CA,United Northern and Southern Knights of the Ku Klux Klan,38.437574,-121.56012,KKK
+851,New Boston, TX,United White Knights of the Ku Klux Klan,33.434193,-94.435604,KKK
+852,Vancouver, WA,White Knights of the Ku Klux Klan of America,45.585211,-122.768831,KKK
